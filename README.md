@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://mohitkaninwal.netlify.app/](https://mohitkaninwal.netlify.app/)
 
-- 💬 Ask me about **C++ , React , JavaScript**
+- 💬 Ask me about **C++ , JavaScript**
 
 - 📫 How to reach me **mohit37.my@gmail.com**
 
