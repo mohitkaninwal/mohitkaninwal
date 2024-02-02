@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
 <h3 align="center">A passionate Front-End developer from India</h3>
 
-- 🔭 I’m currently working on **Data Structures and Algorithms**
+- 🔭 I’m currently working on **Reactjs and Redux Toolkit**
 
 - 👨‍💻 All of my projects are available at [https://mohitkaninwal.netlify.app/](https://mohitkaninwal.netlify.app/)
 
-- 💬 Ask me about **C++ , JavaScript**
+- 💬 Ask me about **Reactjs , JavaScript**
 
 - 📫 How to reach me **mohit37.my@gmail.com**
 
