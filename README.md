@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Mohit Kumar</h1>
-<h3 align="center">A passionate Front-End developer from India</h3>
+<h3 align="center">A passionate Software developer and Tester from India</h3>
 
-- 🔭 I’m currently working on **Reactjs and Redux Toolkit**
+- 🔭 I’m currently working on **Testing(Scrum,Jira,Postman API)**
 
 - 👨‍💻 All of my projects are available at [https://mohitkaninwal.netlify.app/](https://mohitkaninwal.netlify.app/)
 
-- 💬 Ask me about **Reactjs , JavaScript**
+- 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **mohit37.my@gmail.com**
 
